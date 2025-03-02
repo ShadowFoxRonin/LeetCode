@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ba2d8ae-c57b-4de9-93ed-3a6ca26e208f" name="Changes" comment="1929. Concatenation of Array" />
+    <list default="true" id="5ba2d8ae-c57b-4de9-93ed-3a6ca26e208f" name="Changes" comment="1929. Concatenation of Array">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays_and_hasing/concatenation_of_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays_and_hasing/concatenation_of_array.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ShadowFoxRonin"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/ShadowFoxRonin/LeetCode.git",
@@ -40,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.concatenation_of_array.executor": "Run",
+    "Python.contains_duplicate.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -77,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740949881742</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1929. Concatenation of Array">
+      <option name="closed" value="true" />
+      <created>1740950133142</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740950133142</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

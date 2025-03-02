@@ -3,16 +3,16 @@ from typing import List
 
 def double_for(nums: List[int]) -> List[int]:
     r_nums: List[int] = []
-    for it in range(2):
-        for i in range(len(nums)):
-            r_nums.append(nums[i])
+    for ignore in range(2):
+        for value in nums:
+            r_nums.append(value)
     return r_nums
 
 
 def make_a_copy(nums: List[int]) -> List[int]:
     r_nums: List[int] = nums.copy()
-    for i in range(len(nums)):
-        r_nums.append(nums[i])
+    for value in nums:
+        r_nums.append(value)
     return r_nums
 
 
