@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ba2d8ae-c57b-4de9-93ed-3a6ca26e208f" name="Changes" comment="1929. Concatenation of Array">
+    <list default="true" id="5ba2d8ae-c57b-4de9-93ed-3a6ca26e208f" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;arrays_and_hasing/concatenation_of_array.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays_and_hasing/concatenation_of_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/arrays_and_hasing/concatenation_of_array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,12 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740950133142</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;arrays_and_hasing/concatenation_of_array.py">
+      <option name="closed" value="true" />
+      <created>1740955232736</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740955232736</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add git ignore file" />
     <MESSAGE value="1929. Concatenation of Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="1929. Concatenation of Array" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;arrays_and_hasing/concatenation_of_array.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;arrays_and_hasing/concatenation_of_array.py" />
   </component>
 </project>
