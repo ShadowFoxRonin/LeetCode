@@ -19,9 +19,9 @@ def two_sum(arr: List[int], target: int) -> List[int]:
     collection_of_numbers = {}
     for i in range(len(arr)):
         search_value = target - arr[i]
-        if collection_of_numbers.__contains__(search_value):
+        if search_value in collection_of_numbers:
             return [collection_of_numbers[search_value], i]
-        elif not collection_of_numbers.__contains__(arr[i]):
+        elif not arr[i] in collection_of_numbers:
             collection_of_numbers[arr[i]] = i
 
     return []
